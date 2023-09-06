@@ -1,0 +1,5 @@
+﻿,Zero-Shot (Reference Group),Multiple Choice Questions,One-Shot Prompting,Two-Shot Prompting,Chain of Thought Prompting
+Easy,19.80%,48.20%,30%,32.80%,23%
+Intermediate,14%,49.40%,17.60%,18.60%,14.80%
+Hard,9.80%,47.20%,13.50%,15.50%,10.60%
+Average,14.53%,48.27%,20.37%,22.30%,16.13%

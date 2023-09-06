@@ -1,0 +1,5 @@
+﻿PuzzleId,FEN,Moves,Rating,RatingDeviation,Popularity,NbPlays,Themes,GameUrl,OpeningTags,RatingBin,BestMove,A,B,C,D
+2PmXD,7k/p1p3pp/3r1p2/8/8/3n2P1/PPP4P/1K2R3 w - - 0 29,d8d6 e1e8,401,107,100,109,backRankMate endgame mate mateIn1 oneMove,https://lichess.org/Kdio40wa/black#56,,"(400, 500]",e1e8,e1e7,e1c1,e1e8,a2a3
+8IBwd,1k4n1/ppp3p1/3q1pP1/3N4/4Q3/4P3/PPP2P2/2K1b3 w - - 1 21,a6d6 e4e8 d6d8 e8d8,401,104,100,172,endgame fork mate mateIn2 short,https://lichess.org/SI5OraRY/black#40,,"(400, 500]",e4e8,d5e7,b2b4,d5f4,e4e8
+9T5Aw,2r1q1k1/2p2p1p/3p2p1/pb1P4/1p1R1Q2/5B2/PP3PPP/4R1K1 b - - 0 28,d1e1 e8e1,401,92,100,245,kingsideAttack mate mateIn1 middlegame oneMove,https://lichess.org/QTSltsW2#55,,"(400, 500]",e8e1,e8e1,h7h6,b5f1,b5a4
+CFL6a,r2r2k1/3q2p1/8/5p2/5P2/pP2R2P/P1P1R1P1/1K2Q3 b - - 3 30,e6e3 d7d1 e1d1 d8d1,401,94,100,320,endgame mate mateIn2 short,https://lichess.org/ObyeLcXs#59,,"(400, 500]",d7d1,d7b5,a8b8,g8f7,d7d1
